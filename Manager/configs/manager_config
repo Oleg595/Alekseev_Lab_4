@@ -1,0 +1,18 @@
+EXECUTOR 1 = Reader.Reader
+EXECUTOR 2 = Encoding.Encoding
+EXECUTOR 3 = Decoding.Decoding
+EXECUTOR 4 = Writer.Writer
+
+NUM_EXECUTORS = 4
+
+READER_INPUT = configs\input
+
+CONFIGURATION 1 = configs\readerconfig
+
+WRITER_OUTPUT = configs\output
+
+CONFIGURATION 4 = configs\writerconfig
+
+CONFIGURATION 2 = configs\firstconf
+
+CONFIGURATION 3 = configs\secondconf

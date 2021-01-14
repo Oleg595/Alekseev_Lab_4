@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Executor2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artefacts/Executor2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
